@@ -1,3 +1,4 @@
+
 <?php
 /**
  * TODO
@@ -12,6 +13,8 @@
  * @link     URL shortener, short URL
  */
 
+
+ 
 require_once dirname(__FILE__) . '/../../config.php';   
 
 $context = context_system::instance();
@@ -30,6 +33,7 @@ if(!isset($_SESSION['shorturlredirect']) && isset($_GET['c'])){
 }
 
 require_login();
+
 
 
 try{        

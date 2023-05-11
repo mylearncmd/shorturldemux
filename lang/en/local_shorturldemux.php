@@ -1,12 +1,21 @@
 <?php
-/*$string['pluginname'] = "Short-URL Demultiplexer";
+$string['pluginname'] = "Short-URL Demultiplexer";
 $string['no_course_found'] = "No such course found.";
 $string['no_course_enrolled'] = "No enrolled course found.";
 $string['nothing_specified'] = "No shortener or course specified.";
 $string['userid_not_found'] = "User id not found.";
 $string['no_matching_course'] = "No matched course found.";
-*/
+$string['course_ID'] = "Choose a course ID";
+$string['course_button'] = "select ";
+$string['überschirft'] = "Choose your course";
+$string['sprach_button'] = "Choose a language";
+$string['send'] = "send";
+$string['course'] = "course ";
+$string['language1'] = "german";
+$string['language2'] = "english";
+$string['choose'] = "choose ";
 
+/*
 $string['pluginname'] = "Short-URL Demultiplexer";
 $string['no_course_found'] = "Wir konnten keinen Kurs dieser Art finden.";
 $string['no_course_enrolled'] = "Ups. Könnte es sein, dass Sie sich bislang noch nicht im APLE-Moodle eingeloggt haben? 
@@ -15,5 +24,5 @@ Wählen Sie anschließend den von Ihnen belegten Kurse und schreiben Sie sich ei
 $string['nothing_specified'] = "Sie haben keine Kurz-URL oder Kurs angegeben.";
 $string['userid_not_found'] = "Einen Nutzer mit dieser ID kennen wir nicht.";
 $string['no_matching_course'] = "Wir haben keinen passenden Kurs gefunden.";
-
+*/
 ?>
